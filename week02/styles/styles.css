@@ -20,8 +20,6 @@ footer {
 nav {
     background-color: #333;
     padding: 5px;
-    display: flex;
-    justify-content: center;
 }
 
 nav a {
@@ -31,8 +29,7 @@ nav a {
 }
 
 main {
-    width: 400px;
-    max-width: 100%;
+    max-width: 400px;
     margin: 0 auto;
 }
 

@@ -2,7 +2,7 @@
     --primary-color: #055a05;
     --secondary-color: #ffffff;
     --accent1-color: #264653;
-    --accent2-color: #fafafa;
+    --accent2-color: #ffffff;
     --heading-font: Georgia, serif;
     --body-font: Arial, Helvetica, sans-serif;
 }
@@ -46,7 +46,7 @@ nav ul {
 }
 
 nav a {
-    color: var(--accent2-color);
+    color: var(--secondary-color);
     text-decoration: none;
 }
 

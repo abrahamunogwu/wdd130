@@ -337,19 +337,19 @@ h2 {
     margin-right: 8px;
 }
 
-.newsletter {
-    display: flex !important;
+.contact-form .newsletter {
+    display: flex;
     align-items: center;
     gap: 8px;
-    font-weight: normal !important;
+    font-weight: normal;
 }
 
-.newsletter input[type="checkbox"] {
+.contact-form .newsletter input[type="checkbox"] {
     width: auto;
     margin: 0;
 }
 
-/* SUBMIT BUTTON, for submit */
+/* SUBMIT BUTTON */
 
 .contact-form button {
     align-self: flex-start;
